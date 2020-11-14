@@ -15,10 +15,10 @@ npm -i nik-parse -g
 
 # Printah
 ```
-
 nik-parse --nik (nomer nik)
 
+```
 
-# alias
+# Alias contoh
 ```
 nik-parse -n 3204110609970001
