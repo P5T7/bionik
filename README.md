@@ -4,7 +4,7 @@
 pkg install update && pkg install upgrade -y
 pkg install python2 -y
 pkg install nodejs atau pkg install nodejs-lts -y saran 2" nya
-
+pip2 install requests bs4
 
 
 
